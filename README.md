@@ -27,3 +27,11 @@ I am a deep learning researcher and software engineer specializing in **Autonomo
 
 ---
 
+### 📈 Contribution Activity
+[![Prem's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=premwadhwani24&theme=tokyonight)](https://git.io/streak-stats)
+---
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-wadhwani-16832a285/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premwadhwani24@gmail.com)
+---
+*"Solving real-world problems through intelligence, research, and seamless AI integration."*
