@@ -35,19 +35,3 @@ I am a deep learning researcher and software engineer specializing in **Autonomo
 *   **💬 Shiksha AI**: Interview readiness chatbot with performance insights and confidence scoring.
 
 ---
-
-### 📊 GitHub Stats
-
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premwadhwani24&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premwadhwani24&layout=compact&theme=tokyonight)
-
----
-
-### 📬 Connect with Me
-
-*   **Email**: [premwadhwani24@gmail.com](mailto:premwadhwani24@gmail.com)
-*   **LinkedIn**: [in/prem-wadhwani-16832a285](https://www.linkedin.com/in/prem-wadhwani-16832a285/)
-*   **Portfolio**: [github.com/premwadhwani24](https://github.com/premwadhwani24)
-
----
-*“Solving real-world problems through intelligence and research.”*
