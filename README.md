@@ -27,11 +27,3 @@ I am a deep learning researcher and software engineer specializing in **Autonomo
 
 ---
 
-### 📂 Featured Projects
-
-*   **🛡️ Trustworthy Cognitive Ransomware Defense**: An AI-driven autonomous defense platform using behavioral analysis and Human-AI verification.
-*   **🛣️ RoadSense AI**: Next-gen smart infrastructure management integrating Computer Vision and Blockchain auditing.
-*   **🌌 Uni-Verse**: A full-stack university collaboration platform with AI matchmaking and AST contribution tracking.
-*   **💬 Shiksha AI**: Interview readiness chatbot with performance insights and confidence scoring.
-
----
