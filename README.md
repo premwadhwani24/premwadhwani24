@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Prem Wadhwani 👋
 
-<!--
-**premwadhwani24/premwadhwani24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final Year B.Tech CSE Student | AI Researcher @ MANIT Bhopal | IIT Roorkee Cognizance Winner
 
-Here are some ideas to get you started:
+I am a deep learning researcher and software engineer specializing in **Autonomous Cyber Defense**, **Computer Vision**, and **Explainable AI (XAI)**. I bridge the gap between complex research architectures and scalable, real-world intelligent systems. Currently focused on building resilient cybersecurity frameworks and smart infrastructure monitoring solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Arsenal
+
+*   **Core Competencies**: Machine Learning, Deep Learning, Autonomous Cyber Defense, Computer Vision, Intelligent Monitoring.
+*   **Languages**: Python (Advanced), C++, SQL, JavaScript.
+*   **AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-Learn, Groq Llama, VGG16, CNN+LSTM.
+*   **Tools & Platforms**: Flask, FastAPI, React, Firebase, Git, OpenCV, Docker, AWS.
+
+---
+
+### 🏆 Key Highlights
+
+*   **IIT Roorkee Winner**: 1st Place at Cognizance 2026 (IDEAZ) for AI-driven security frameworks.
+*   **AI Researcher**: Currently pursuing research on intelligent systems at **MANIT Bhopal** (Summer Internship 2026).
+*   **Published Author**: 
+    *   *Real-Time Gunshot Detection and Localization* (IEEE ICoEIT 2025).
+    *   *AI-Driven Acoustic Monitoring for Pipeline Leaks* (Journal of Pipeline Science and Engineering).
+*   **Hackathon Champion**: Semi-finalist at ET AI Hackathon 2026 & SIH 2024/2025 Participant.
+*   **Academic Excellence**: Gold Medalist and "Wall of Achievers" at ITM University Gwalior.
+
+---
+
+### 📂 Featured Projects
+
+*   **🛡️ Trustworthy Cognitive Ransomware Defense**: An AI-driven autonomous defense platform using behavioral analysis and Human-AI verification.
+*   **🛣️ RoadSense AI**: Next-gen smart infrastructure management integrating Computer Vision and Blockchain auditing.
+*   **🌌 Uni-Verse**: A full-stack university collaboration platform with AI matchmaking and AST contribution tracking.
+*   **💬 Shiksha AI**: Interview readiness chatbot with performance insights and confidence scoring.
+
+---
+
+### 📊 GitHub Stats
+
+![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premwadhwani24&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premwadhwani24&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 Connect with Me
+
+*   **Email**: [premwadhwani24@gmail.com](mailto:premwadhwani24@gmail.com)
+*   **LinkedIn**: [in/prem-wadhwani-16832a285](https://www.linkedin.com/in/prem-wadhwani-16832a285/)
+*   **Portfolio**: [github.com/premwadhwani24](https://github.com/premwadhwani24)
+
+---
+*“Solving real-world problems through intelligence and research.”*
